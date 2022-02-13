@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first HTML project, so completing this in its entirety will be an accomplishment.  My goal is to simply follow the assignment exactly as The Odin Project tells me to do so.  Accuracy > Speed.
